@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1015",
+        "firstname": "Carolyn",
+        "surname": "Bertozzi",
+        "motivation": "\"for the development of click chemistry and bioorthogonal chemistry\"",
+        "share": "3",
+        "year": "2022",
+        "category": "chemistry"
+    },
+    {
+        "id": "1016",
+        "firstname": "Morten",
+        "surname": "Meldal",
+        "motivation": "\"for the development of click chemistry and bioorthogonal chemistry\"",
+        "share": "3",
+        "year": "2022",
+        "category": "chemistry"
+    },
+    {
+        "id": "743",
+        "firstname": "Barry",
+        "surname": "Sharpless",
+        "motivation": "\"for the development of click chemistry and bioorthogonal chemistry\"",
+        "share": "3",
+        "year": "2022",
+        "category": "chemistry"
+    },
+    {
+        "id": "1021",
+        "firstname": "Ben",
+        "surname": "Bernanke",
+        "motivation": "\"for research on banks and financial crises\"",
+        "share": "3",
+        "year": "2022",
+        "category": "economics"
+    },
+    {
+        "id": "1022",
+        "firstname": "Douglas",
+        "surname": "Diamond",
+        "motivation": "\"for research on banks and financial crises\"",
+        "share": "3",
+        "year": "2022",
+        "category": "economics"
+    }
+]
